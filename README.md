@@ -1,2 +1,3 @@
-# IdensicMobileSDK-Core-iOS
-IdensicMobileSDK for iOS
+# Sumsub Mobile SDK for iOS
+
+Documentation can be found [here](https://developers.sumsub.com/msdk/ios/)
